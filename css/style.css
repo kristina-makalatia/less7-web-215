@@ -1,0 +1,11 @@
+.footer-bg {
+    background-color: #535353;
+    padding-top: 108px;
+    padding-bottom: 129px;
+}
+.footer-block {
+    width: 1128px;
+    height: 400px;
+    background-color: lightblue;
+    margin: 0 auto;
+}
